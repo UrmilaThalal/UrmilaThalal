@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:06b6d4&height=250&section=header&text=Urmila%20Thalal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20React.js%20Developer&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:7C3AED,100:06B6D4&text=Urmila%20Thalal&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Frontend%20Developer%20|%20React.js%20Developer&descAlignY=58&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Urmila Thalal</h1>
@@ -9,116 +9,64 @@ Frontend Developer • React.js • JavaScript • BSc CSIT Student
 </h3>
 
 <p align="center">
-Passionate about building responsive, user-friendly and modern web applications.
-</p>
-
-<p align="center">
-
-<a href="https://github.com/UrmilaThalal">
-<img src="https://img.shields.io/github/followers/UrmilaThalal?label=Followers&style=for-the-badge&color=2563eb"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=UrmilaThalal&style=for-the-badge&color=2563eb"/>
-
+Passionate about creating clean, responsive and user-friendly web applications.
 </p>
 
 ---
 
-# 👩‍💻 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:7C3AED,100:06B6D4&text=👩‍💻%20About%20Me&fontColor=ffffff&fontSize=28"/>
 
-- 🎓 BSc CSIT Student
-- 💻 Frontend Developer
-- ⚛️ React.js Enthusiast
-- 🌱 Learning Advanced React & Django REST Framework
-- 🚀 Looking for Frontend Internship
+- 🎓 BSc CSIT Student at Tribhuvan University
+- 💻 Frontend Developer passionate about building modern web applications
+- ⚛️ Working with React.js, JavaScript, HTML and CSS
+- 🌱 Currently learning Django REST Framework and PostgreSQL
+- 🚀 Looking for Frontend Developer Internship opportunities
 - 📍 Kathmandu, Nepal
 
 ---
 
-# 🛠 Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:06B6D4,100:7C3AED&text=🛠%20Tech%20Stack&fontColor=ffffff&fontSize=28"/>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&perline=6"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,git,github,vscode&perline=6"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=figma,postman,npm,vite&perline=4"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:7C3AED,100:06B6D4&text=🚀%20Featured%20Projects&fontColor=ffffff&fontSize=28"/>
 
-### 🤖 AI Resume Builder
+### 🤖 AI Resume Builder Reviewer & Cover Letter
 
 - React.js
 - Django REST Framework
 - PostgreSQL
-- Gemini API
+- Google Gemini API
 
 ---
 
-### 🌐 Portfolio Website
+### 🌐 Personal Portfolio Website
 
-Responsive portfolio website using HTML, CSS and JavaScript.
+Responsive portfolio website built using HTML, CSS and JavaScript.
 
 ---
 
 ### 📦 Inventory Management System
 
-Java + SQLite Desktop Application.
+Desktop application developed using Java and SQLite.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=UrmilaThalal&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrmilaThalal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=UrmilaThalal&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UrmilaThalal&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=UrmilaThalal&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:06B6D4,100:7C3AED&text=🌐%20Connect%20With%20Me&fontColor=ffffff&fontSize=28"/>
 
 <p align="center">
 
@@ -140,6 +88,10 @@ Java + SQLite Desktop Application.
 
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+✨ <b>Thanks for visiting my profile!</b> ✨
 
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,50:7C3AED,100:06B6D4"/>
 </p>
