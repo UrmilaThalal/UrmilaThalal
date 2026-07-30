@@ -94,7 +94,7 @@ A desktop application developed to manage inventory efficiently with CRUD functi
 
 **Tech Stack:** Java • SQLite
 
-> 🔗 Replace this with your actual repository URL if the repository is public.
+https://github.com/UrmilaThalal/Inventrack.git
 
 ---
 
