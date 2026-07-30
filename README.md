@@ -1,26 +1,22 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Urmila%20Thalal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React.js%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Urmila%20Thalal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58"/>
 </p>
 
 <h1 align="center">
+
 Hi 👋, I'm Urmila Thalal
+
 </h1>
 
 <h3 align="center">
-Frontend Developer • React.js • JavaScript • BSc CSIT Student
+
+Frontend Developer
+
 </h3>
 
 <p align="center">
+
 Building clean, responsive and user-friendly web applications.
-</p>
-
-<p align="center">
-
-<a href="https://github.com/UrmilaThalal">
-<img src="https://img.shields.io/github/followers/UrmilaThalal?style=for-the-badge&color=4F46E5&label=Followers"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=UrmilaThalal&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </p>
 
@@ -30,112 +26,49 @@ Building clean, responsive and user-friendly web applications.
 
 <br>
 
-I am a **Frontend Developer** and **BSc CSIT student** with a passion for building modern, responsive, and user-friendly web applications.
+I'm a **Frontend Developer** passionate about creating modern, responsive and user-friendly web applications.
 
-I enjoy transforming ideas into real-world projects using modern frontend technologies while continuously learning and improving my development skills.
+I enjoy learning new technologies, solving real-world problems and building projects that improve my development skills.
 
-<br>
-
-### 💼 Career Goal
-
-- 🚀 Looking for **Frontend Developer Internship**
-- 💻 Passionate about creating responsive web applications
-- ⚛️ Interested in React.js & Modern Frontend Development
-- 🌱 Currently learning Django REST Framework & PostgreSQL
-
-<br>
-
-### 📍 Basic Information
-
-| | |
-|:---|:---|
-| 👩 Name | **Urmila Thalal** |
-| 🎓 Education | **BSc CSIT - Tribhuvan University** |
-| 🌍 Location | **Kathmandu, Nepal** |
-| 💼 Role | **Frontend Developer** |
-| 🌱 Learning | **React.js, Django REST Framework, PostgreSQL** |
+✨ I believe in writing clean code, learning continuously and creating meaningful user experiences.
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:06B6D4,100:4F46E5&text=💻%20Tech%20Stack&fontColor=ffffff&fontSize=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:06B6D4,100:7C3AED&text=💻%20Tech%20Stack&fontColor=ffffff&fontSize=30"/>
 
 <br>
 
-<table align="center">
+<div align="center">
 
-<tr>
+### 🌐 Frontend
 
-<th align="center">Frontend</th>
+🧡 HTML5 &nbsp;&nbsp; 🔵 CSS3 &nbsp;&nbsp; 🟨 JavaScript &nbsp;&nbsp; ⚛️ React.js &nbsp;&nbsp; 🟣 Bootstrap &nbsp;&nbsp; 🌊 Tailwind CSS
 
-<th align="center">Backend</th>
+<br>
 
-<th align="center">Database</th>
+### ⚙️ Backend
 
-<th align="center">Tools</th>
+🐍 Python &nbsp;&nbsp; 🌿 Django &nbsp;&nbsp; 🔗 Django REST Framework
 
-</tr>
+<br>
 
-<tr>
+### 🗄 Database
 
-<td>
+🐘 PostgreSQL &nbsp;&nbsp; 🗃 SQLite
 
-• HTML5
+<br>
 
-• CSS3
+### 🛠 Tools
 
-• JavaScript
+🌿 Git &nbsp;&nbsp; ⚫ GitHub &nbsp;&nbsp; 💙 VS Code &nbsp;&nbsp; 🟠 Postman &nbsp;&nbsp; 🎨 Figma &nbsp;&nbsp; ⚡ Vite
 
-• React.js
-
-• Bootstrap
-
-• Tailwind CSS
-
-</td>
-
-<td>
-
-• Python
-
-• Django
-
-• Django REST Framework
-
-</td>
-
-<td>
-
-• PostgreSQL
-
-• SQLite
-
-</td>
-
-<td>
-
-• Git
-
-• GitHub
-
-• VS Code
-
-• Postman
-
-• Figma
-
-• Vite
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
 <p align="center">
 
-💙 <b>"Code. Learn. Build. Repeat."</b>
+💜 <b>"Code • Learn • Build • Repeat"</b>
 
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:7C3AED,100:06B6D4&text=🚀%20Featured%20Projects&fontColor=ffffff&fontSize=30"/>
@@ -144,98 +77,75 @@ I enjoy transforming ideas into real-world projects using modern frontend techno
 
 ## 🤖 [AI Resume Builder Reviewer & Cover Letter](https://github.com/UrmilaThalal/AI-Resume-Builder-Reviewer-Cover-Letter-)
 
-**Tech Used:** React.js • Django REST Framework • PostgreSQL • Google Gemini API
+An AI-powered Resume Builder and Reviewer that helps users create professional resumes, receive AI-generated feedback, and generate personalized cover letters.
 
-✔ AI-powered Resume Builder
+**Tech Stack:** React.js • Django REST Framework • PostgreSQL • Google Gemini API
 
-✔ Resume Review with AI
-
-✔ Cover Letter Generator
-
-✔ Authentication using JWT
-
-✔ Responsive UI
+🔗 **Repository:**  
+https://github.com/UrmilaThalal/AI-Resume-Builder-Reviewer-Cover-Letter-
 
 ---
 
 ## 🌐 [Personal Portfolio Website](https://github.com/UrmilaThalal/personal-portfolio-website)
 
-**Tech Used:** HTML5 • CSS3 • JavaScript
+A responsive personal portfolio website showcasing my skills, projects, and contact information.
 
-✔ Responsive Design
+**Tech Stack:** HTML5 • CSS3 • JavaScript
 
-✔ Modern UI
-
-✔ Personal Portfolio
-
----
-
-## 📦 [Inventory Management System](https://github.com/UrmilaThalal/Inventory-Management-System)
-
-**Tech Used:** Java • SQLite
-
-✔ CRUD Operations
-
-✔ Inventory Management
-
-✔ Desktop Application
+🔗 **Repository:**  
+https://github.com/UrmilaThalal/personal-portfolio-website
 
 ---
 
-## 📂 Other Projects
+## 📦 Inventory Management System
 
-- 🔎 [Text File Search Tool](https://github.com/UrmilaThalal/Text_File_Search_Tool)
-- 🌐 [Web Development Practice](https://github.com/UrmilaThalal/Web-Development)
+A desktop application developed to manage inventory efficiently with CRUD functionality.
+
+**Tech Stack:** Java • SQLite
+
+> 🔗 Replace this with your actual repository URL if the repository is public.
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:06B6D4,100:7C3AED&text=📬%20Let's%20Connect&fontColor=ffffff&fontSize=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:06B6D4,100:7C3AED&text=📬%20Contact%20Me&fontColor=ffffff&fontSize=30"/>
 
 <br>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/urmila-thalal-a-b69313a8/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:utsabithalal@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="mailto:utsabithalal@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/urmila-thalal-a-b69313a8/">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-View%20Profile-0A66C2?style=for-the-badge"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/UrmilaThalal">
-<img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20GitHub-Visit%20Profile-181717?style=for-the-badge"/>
 </a>
-
-</p>
-
-<br>
-
-<p align="center">
-
-💼 **Open to Frontend Developer Internship Opportunities**
 
 </p>
 
 ---
 
-<p align="center">
+<h2 align="center">
 
-# ✨ Thank You for Visiting My Profile! ✨
+✨ Thank You For Visiting My Profile! ✨
 
-### 💜 Let's Connect, Collaborate & Build Amazing Projects Together 🚀
-
-</p>
+</h2>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Awesome!"/>
+<b>Let's connect, collaborate and build amazing projects together 🚀</b>
 
 </p>
+
+<br>
 
 <p align="center">
 
