@@ -16,7 +16,7 @@ Frontend Developer
 
 <p align="center">
 
-Building clean, responsive and user-friendly web applications.
+        Building clean, responsive and user-friendly web applications.
 
 </p>
 
